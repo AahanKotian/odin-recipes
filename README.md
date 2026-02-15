@@ -1,5 +1,7 @@
 # Odin Recipes
 
+Link: https://aahankotian.github.io/odin-recipes/
+
 A simple recipe website built as the first project in The Odin Project Foundations course (HTML section).
 
 This project demonstrates basic web development skills using **only HTML** (later extended with CSS in the full Foundations path).
